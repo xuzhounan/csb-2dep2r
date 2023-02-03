@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "https://xuzhounan.github.io/csb-2dep2r/static/js/main.42c6eb3f.chunk.js",
+    "main.js.map": "https://xuzhounan.github.io/csb-2dep2r/static/js/main.42c6eb3f.chunk.js.map",
+    "runtime-main.js": "https://xuzhounan.github.io/csb-2dep2r/static/js/runtime-main.5f4f06dd.js",
+    "runtime-main.js.map": "https://xuzhounan.github.io/csb-2dep2r/static/js/runtime-main.5f4f06dd.js.map",
+    "static/js/2.af893315.chunk.js": "https://xuzhounan.github.io/csb-2dep2r/static/js/2.af893315.chunk.js",
+    "static/js/2.af893315.chunk.js.map": "https://xuzhounan.github.io/csb-2dep2r/static/js/2.af893315.chunk.js.map",
+    "index.html": "https://xuzhounan.github.io/csb-2dep2r/index.html",
+    "static/js/2.af893315.chunk.js.LICENSE.txt": "https://xuzhounan.github.io/csb-2dep2r/static/js/2.af893315.chunk.js.LICENSE.txt",
+    "static/media/index.09eba084.less": "https://xuzhounan.github.io/csb-2dep2r/static/media/index.09eba084.less",
+    "static/media/index.7a6177d4.less": "https://xuzhounan.github.io/csb-2dep2r/static/media/index.7a6177d4.less",
+    "static/media/index.836437e6.less": "https://xuzhounan.github.io/csb-2dep2r/static/media/index.836437e6.less",
+    "static/media/index.cc4ead9f.less": "https://xuzhounan.github.io/csb-2dep2r/static/media/index.cc4ead9f.less",
+    "static/media/styles.77278258.less": "https://xuzhounan.github.io/csb-2dep2r/static/media/styles.77278258.less"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f4f06dd.js",
+    "static/js/2.af893315.chunk.js",
+    "static/js/main.42c6eb3f.chunk.js"
+  ]
+}
